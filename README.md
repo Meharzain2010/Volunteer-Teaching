@@ -3,9 +3,9 @@ Contributing knowledge through iCodeGuru and Standford Code in Place , centered 
 
 # • Section Leader at Stanford University Code in Place
 ![Section Page](https://drive.google.com/uc?export=view&id=13ExG62b59KcWYQnN_H-4BJFMuWWfkvIT)
-![Week 6](https://drive.google.com/file/d/1pZZdmIxVRHf9JwUUGaHYDVg3cNLDVbvS/view?usp=sharing)
+![Week 6](https://drive.google.com/uc?export=view&id=1pZZdmIxVRHf9JwUUGaHYDVg3cNLDVbvS)
 
 # • Training Python Crash Course at iCodeGuru
-![Poster](https://drive.google.com/file/d/1I4vt8Op6P7AzUMfcrqqXFz7w78zazBkO/view?usp=sharing)
+![Poster](https://drive.google.com/uc?export=view&id=1I4vt8Op6P7AzUMfcrqqXFz7w78zazBkO)
 
 
